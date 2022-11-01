@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+        <script src="scripts/jquery-3.6.1.min.js"></script>
+        <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
+        <link rel="manifest" href="manifest.webmanifest">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <!-- JavaScript Bundle with Popper -->
+        <script src="scripts/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+        <script src="./index.js"></script>
+        <script src="./main.js"></script>
+        <script src="./scripts/chart.min.js"></script>
+
+        <title>Temporis Academy</title>
+        
+        <link rel="stylesheet" type="text/css" href="styles/top-style.css" />
+        <!-- CSS only -->
+        <link href="styles/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+            <!-- components -->
+        <script src="scripts/interface-app.js"></script>
+        <script src="components/header.js"></script>
+        <script type="module" src="components/home.js"></script>
+        <script src="components/menu_footer.js"></script>
+        <script src="components/account.js"></script>
+        <script src="components/menu_top.js"></script>
+        <script type="module" src="components/vip.js"></script>
+        <script src="components/monoChart.js"></script>
+    </head>
+    
+    <body onload="init()">
+        
+        <!-- menu -->
+        <menutop-component id="topmenu" style="display:none;"></menutop-component>
+
+        <div id="main_application" style="text-align: center;display:none;">
+            <section id="introduction" class="tab">
+                <header-component></header-component>
+            </section>
+            <section id="vip" class="tab">
+                <vip-component id="cVip"></vip-component>
+            </section>
+            <section id="home" class="tab">
+                <home-component id="cHome"></home-component>
+            </section>
+            <section id="stats" class="tab">
+                <chart-component id="cChart"></chart-component>
+            </section>
+            <section id="compte" class="tab">
+                <account-component id="cAccount"></account-component>
+            </section>
+        </div>
+
+        <div id="content"></div>
+
+        <!-- menu -->
+        <menu-component id="menu" style="display:none;"></menu-component>
+
+        <!-- capacitor last run -->
+        <script src="capacitor.js"></script>
+        <script>
+            $("*, body, #main_application").css("background-color", "black");
+        </script>
+    </body>
+</html>

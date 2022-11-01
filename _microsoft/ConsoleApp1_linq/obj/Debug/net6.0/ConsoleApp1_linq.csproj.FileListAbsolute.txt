@@ -1,0 +1,30 @@
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.exe
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.deps.json
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.runtimeconfig.json
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.dll
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.pdb
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.csproj.AssemblyReference.cache
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.AssemblyInfoInputs.cache
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.AssemblyInfo.cs
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.csproj.CoreCompileInputs.cache
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.dll
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\refint\ConsoleApp1_linq.dll
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.pdb
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.genruntimeconfig.cache
+F:\__PRJ\__moocs_projects\ConsoleApp1_linq\obj\Debug\net6.0\ref\ConsoleApp1_linq.dll
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.exe
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.deps.json
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.runtimeconfig.json
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.dll
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\bin\Debug\net6.0\ConsoleApp1_linq.pdb
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.csproj.AssemblyReference.cache
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.AssemblyInfoInputs.cache
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.AssemblyInfo.cs
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.csproj.CoreCompileInputs.cache
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.dll
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\refint\ConsoleApp1_linq.dll
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.pdb
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ConsoleApp1_linq.genruntimeconfig.cache
+F:\__PRJ\__moocs_projects #canbedeleted\ConsoleApp1_linq\obj\Debug\net6.0\ref\ConsoleApp1_linq.dll
