@@ -18,6 +18,16 @@ module.exports = {
         //filename: 'bundle.js'
         filename: '[name][contenthash].js',
     },
+    devServer:{
+        static:{
+            directory: path.resolve(__dirname, 'dist'),
+        },
+        port: 3000,
+        open: true,
+        hot: true, // hot reloading
+        compress: true, // json compression
+        historyApiFallback: true,
+    },
     module: {
         rules:[{
             test:/\.scss$/,
