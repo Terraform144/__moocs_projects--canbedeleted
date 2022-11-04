@@ -1,5 +1,6 @@
 // play_02_31 hour of cpp with freeCodeCamp.org.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
-//https://youtu.be/8jLOx1hD3_o
+//https://youtu.be/8jLOx1hD3_o - freecodecamp 31 - coursDescamp -- https://github.com/rutura/The-C-20-Masterclass-Source-Code
+//https://www.youtube.com/watch?v=GQp1zzTwrIg - codeBeauty
 
 #include <iostream>
 using namespace std;
@@ -14,6 +15,45 @@ int addNumbers(int first_number, int second_number) {
 
 int main()
 {
+    //14 Lambda functions
+    /*  auto func = []() {return 1;}; func()
+        auto result = [](double a, double b){
+            cout<<"a+b "<<(a+b)<<endl;
+            return (a+b);
+        }(12.1,5.7);
+    */
+    //Capturing by value
+    /*
+     int c{42};
+
+     auto func = [c](){
+         std::cout << "Inner value : " << c << " &inner : " <<&c <<  std::endl;
+     };
+
+     for(size_t i{} ; i < 5 ;++i){
+         std::cout << "Outer value : " << c << " &outer : " << &c << std::endl;
+         func();
+         ++c;
+     }
+     */
+     //Capture everything by value
+     /*
+      int c{42};
+
+      auto func = [=](){
+          std::cout << "Inner value : " << c << std::endl;
+      };
+
+      for(size_t i{} ; i < 5 ;++i){
+          std::cout << "Outer value : " << c << std::endl;
+          func();
+          ++c;
+      }
+      */
+    //5 operation on datas - 04.11.22
+    /* https://en.cppreference.com/w/cpp/language/operator_precedence 
+       use (), value /=3,
+    */
     //2 outputs
     /* std::cout, cin, cerr, clog */
     std::string name;int age; std::cin >> name >> age;
