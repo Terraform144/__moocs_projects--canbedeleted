@@ -92,7 +92,7 @@
     "wildcard": "^2.0.0"
   },
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
