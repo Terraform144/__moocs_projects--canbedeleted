@@ -97,7 +97,8 @@
     "wildcard": "^2.0.0"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack serve"
   },
   "keywords": [],
   "author": "",
