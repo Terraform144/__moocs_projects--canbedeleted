@@ -1,6 +1,12 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
+/**
+ * see https://webpack.js.org/
+ * 
+ * -webpack caching in configuration
+ *      output> -->filename : '[name][contenthash].js'
+ */
 module.exports = {
     mode:'development',
     entry: {
@@ -10,7 +16,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'dist'),
         //filename: 'bundle.js'
-        filename: '[name].js',
+        filename: '[name][contenthash].js',
     },
     module: {
         rules:[{
