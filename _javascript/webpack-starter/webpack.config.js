@@ -17,6 +17,7 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
         //filename: 'bundle.js'
         filename: '[name][contenthash].js',
+        clean: true, // refresh distribution and avoid unnecessary caches
     },
     devServer:{
         static:{
