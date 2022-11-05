@@ -19,6 +19,7 @@ module.exports = {
         filename: '[name][contenthash].js',
         clean: true, // refresh distribution and avoid unnecessary caches
     },
+    devtool: 'source-map',
     devServer:{
         static:{
             directory: path.resolve(__dirname, 'dist'),
