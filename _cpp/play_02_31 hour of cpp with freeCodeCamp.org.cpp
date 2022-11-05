@@ -2,6 +2,11 @@
 //https://youtu.be/8jLOx1hD3_o - freecodecamp 31 - coursDescamp -- https://github.com/rutura/The-C-20-Masterclass-Source-Code
 //https://www.youtube.com/watch?v=GQp1zzTwrIg - codeBeauty
 
+/**
+
+    Some elegants aspects of modern Cpp
+
+*/
 #include <iostream>
 using namespace std;
 /*

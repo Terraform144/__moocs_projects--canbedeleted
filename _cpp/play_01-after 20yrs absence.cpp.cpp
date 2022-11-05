@@ -1,6 +1,11 @@
 // play_01-after 20yrs absence.cpp.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
 // https://youtu.be/1v_4dL8l8pQ
 
+/**
+
+    The CPP basics to remember for
+
+*/
 #include <iostream>
 using namespace std;
 
