@@ -38,8 +38,18 @@ module.exports = {
                 'css-loader',
                 'sass-loader'
             ],
-        }]
-    },
+        },
+        { // babel configuration
+            test:/\.js$/,   // will compatibl. files with old browsers
+            use:{
+                loader:'babel-loader',
+                exclude: /node_modules/,
+                options:{
+                    presets:['@babel/presets-env'],
+                },
+            }
+        }
+    ]},
     plugins : [
         new HtmlWebpackPlugin({
             title: 'Webpack App',
