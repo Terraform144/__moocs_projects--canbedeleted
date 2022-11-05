@@ -1,4 +1,4 @@
-## Ressources of the Learnings I DO
+## Playground of the Learnings I DO
 
 Welcome in my Alibaba mooc's cavern of topics I have worked on.
 
