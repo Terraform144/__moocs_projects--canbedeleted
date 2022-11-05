@@ -2,7 +2,7 @@
 
 Welcome in my Alibaba mooc's cavern of topics I have worked on.
 
-Please feel free to enter.
+Feel free to enter :)
 
 ## TOPICS
 
