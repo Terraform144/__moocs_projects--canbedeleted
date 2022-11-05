@@ -18,6 +18,7 @@ module.exports = {
         //filename: 'bundle.js'
         filename: '[name][contenthash].js',
         clean: true, // refresh distribution and avoid unnecessary caches
+        assetModuleFilename:'[name][ext]', // rename well assets 
     },
     devtool: 'source-map',
     devServer:{
@@ -41,14 +42,18 @@ module.exports = {
         },
         { // babel configuration
             test:/\.js$/,   // will compatibl. files with old browsers
+            exclude: /node_modules/,
             use:{
                 loader:'babel-loader',
-                exclude: /node_modules/,
                 options:{
-                    presets:['@babel/presets-env'],
+                    presets:['@babel/preset-env'],
                 },
             }
-        }
+        },
+        {
+            test: /\.(png|svg|jpg|jpeg|gif)$/i,
+            type: 'asset/resource'
+        },
     ]},
     plugins : [
         new HtmlWebpackPlugin({
