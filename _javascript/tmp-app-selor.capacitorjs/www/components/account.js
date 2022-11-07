@@ -39,6 +39,16 @@ accountTemplate.innerHTML = `
         color:white;
         font-weight:bold;
     }
+    .social_buttons {
+        padding-left:80px;
+        padding-right:150px;
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+    }
+    .social_buttons img {
+        width:50px;
+    }
 </style>
 <div id="account_panel">
 <div class="ttlRed">Réglages</div>
@@ -58,7 +68,8 @@ accountTemplate.innerHTML = `
         </section>
         <section>
             <div class="ttl">Réseaux sociaux</div>
-            <div><svg width="15px" viewBox="0 0 448 512"><path d="M352 224c53 0 96-43 96-96s-43-96-96-96s-96 43-96 96c0 4 .2 8 .7 11.9l-94.1 47C145.4 170.2 121.9 160 96 160c-53 0-96 43-96 96s43 96 96 96c25.9 0 49.4-10.2 66.6-26.9l94.1 47c-.5 3.9-.7 7.8-.7 11.9c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-25.9 0-49.4 10.2-66.6 26.9l-94.1-47c.5-3.9 .7-7.8 .7-11.9s-.2-8-.7-11.9l94.1-47C302.6 213.8 326.1 224 352 224z"/></svg><p><a href="https://www.facebook.com/sharer/sharer.php?u=temporis.be" target="_blank">Partage l'appli</a></p></div>
+            <div><svg width="15px" viewBox="0 0 448 512"><path d="M352 224c53 0 96-43 96-96s-43-96-96-96s-96 43-96 96c0 4 .2 8 .7 11.9l-94.1 47C145.4 170.2 121.9 160 96 160c-53 0-96 43-96 96s43 96 96 96c25.9 0 49.4-10.2 66.6-26.9l94.1 47c-.5 3.9-.7 7.8-.7 11.9c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-25.9 0-49.4 10.2-66.6 26.9l-94.1-47c.5-3.9 .7-7.8 .7-11.9s-.2-8-.7-11.9l94.1-47C302.6 213.8 326.1 224 352 224z"/></svg><p>Partage l'appli<br/></p></div>
+            <div class="social_buttons"><a href="https://www.facebook.com/sharer/sharer.php?u=temporis.be" target="_blank"><img src="assets/fb_ico.png"/></a> <a href="http://twitter.com/share?url=https://temporis.be" target="_blank"><img src="assets/tw_ico.png"/></a> <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://temporis.be" target="_blank"><img src="assets/in_ico.png"/></a></div>
             <div><svg width="15px" viewBox="0 0 448 512"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg><p><a href="https://www.facebook.com/TEMPORIS.formation.secourisme.incendie.conflits" target="_blank">Rejoignez nous sur Facebook</a></p></div>
         </section>
 </div>
