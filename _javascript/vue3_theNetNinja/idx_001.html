@@ -12,8 +12,19 @@
         {{ title }} -- {{ author }} -- {{ age }}
 
         <button v-on:click="age++">add year</button>
+        <div v-if="showBooks">
+            show this book
+        </div>
         <div @click="title = 'else title'">change title</div>
         <div @click="changeTitle('abs')">change title23</div>
+
+        <button @click=" toggleShowBooks">
+            <span v-if="showBooks">hide books</span>
+            <!-- span v-if="!showBooks">show books</span-->
+            <span v-else>Show books</span>
+        </button>
+
+        <div v-show="showBooks">show this</div>
     </div>
     <script src="app.001.js"></script>
 </body>

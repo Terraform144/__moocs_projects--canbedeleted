@@ -9,6 +9,7 @@ const app = Vue.createApp({
 const app = Vue.createApp({
     data() {
         return {
+            showBooks : true,
             title : 'The empire',
             author : 'the two',
             age : 45
@@ -18,6 +19,9 @@ const app = Vue.createApp({
         changeTitle(str) {
             //this.title = "new title from methods"
             this.title = str
+        },
+        toggleShowBooks(){
+            this.showBooks = !this.showBooks
         }
     }
 });
