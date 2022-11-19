@@ -15,8 +15,9 @@ const app = Vue.createApp({
         }
     },
     methods: {
-        changeTitle() {
-            this.title = "new title from methods"
+        changeTitle(str) {
+            //this.title = "new title from methods"
+            this.title = str
         }
     }
 });
