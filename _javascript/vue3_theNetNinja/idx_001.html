@@ -30,6 +30,14 @@
         </button>
 
         <div v-show="showBooks">show this</div>
+        ----------------
+        <!-- https://youtu.be/CYPZBK8zUik?t=44 -->
+        <div class="box" @mouseover='handleEvent($event, 5)'>mouseover (enter)</div>
+        <div class="box" @mouseleave='handleEvent'>mouseleave</div>
+        <div class="box" @dblclick='handleEvent'>double click</div>
+        <div class="box" @mousemove='handleMouseEvent'>position : {{ x }} - {{ y }}</div>
+
+        <!-- v-for : https://youtu.be/CYPZBK8zUik?t=636 -->
     </div>
     <script src="app.001.js"></script>
 </body>
