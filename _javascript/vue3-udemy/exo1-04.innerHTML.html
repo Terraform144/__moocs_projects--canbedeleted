@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@next"></script>
+</head>
+<body>
+    <div id="app">
+        <p v-text="textBrut"></p>
+        <p v-html="textHTML"></p>
+        <p v-text="pallindrome"></p>
+    </div>
+    <script>
+        const app = Vue.createApp({
+            data() {
+                return {
+                    textBrut : 'il etait une fois',
+                    textHTML : '<h2>text titre</h2>'
+                }
+            },
+            computed : {
+                pallindrome() {
+                    return this.textBrut += this.textBrut.split('').reverse().join('');
+                }
+            }
+        });
+        const vm = app.mount('#app');
+        vm.textBrut = 'il était 2 fois';
+    </script>
+</body>
+</html>
