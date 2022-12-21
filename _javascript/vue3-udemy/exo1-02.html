@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@3.0.5"></script>
+</head>
+<body>
+    <div id="app">
+        {{date1}} - {{date2}}
+    </div>
+    <script>
+        const app = Vue.createApp({
+            data () {
+                return {
+                    d : new Date()
+                }
+            },
+            computed : {
+                date1() {
+                    return this.d.toLocaleTimeString()
+                },
+                date2() {
+                    return this.d.toLocaleTimeString('en-US')
+                }
+            }
+        });
+        app.mount("#app");
+    </script>
+</body>
+</html>

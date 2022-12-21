@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@3.0.5"></script>
+</head>
+<body>
+    <div id="app">
+        <p v-text="textBrut"></p>
+        <p v-html="textHTML"></p>
+    </div>
+    <script>
+        const app = Vue.createApp({
+            data() {
+                return {
+                    textBrut:"textBrut",
+                    textHTML:"<h2text</h2> test test text"
+                }
+            }
+        });
+        app.mount("#app");
+    </script>
+</body>
+</html>
