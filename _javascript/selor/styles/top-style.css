@@ -1,0 +1,61 @@
+body, #main_application{
+    background-color: #000;
+}
+
+body {
+    padding:0px;margin:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: normal; font-size: 15px;font-weight: 500;
+    overflow-x: hidden;
+    height:85vh;
+    width:100vw;
+}
+#topmenu, #menu {
+    display:none;
+}
+.group {
+    margin-bottom: 120px;
+}
+#content {
+    padding:20px;
+    margin-top:70px;
+}
+#contentBut{
+    bottom:-80px;
+    position:fixed;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+    width: 100%;
+}
+#bNext {
+    width:30%;
+    height:50px;
+    left:63%;
+    position:absolute;
+}
+#bPrevious {
+    width:30%;
+    height:50px;
+    left:-2%;
+    position:absolute;
+}
+#bValider{
+    width:30%;
+    left:30.5%;
+    height:50px;
+    position:absolute;
+}
+#bAcheter {
+    position:fixed;
+    width:95%;
+    bottom:0px !important;
+    left: 10px;
+    background-color:#198754 !important;
+}
+button {
+    margin-top:30px !important;
+    margin-bottom:80px !important;
+    bottom:60px;
+}
+

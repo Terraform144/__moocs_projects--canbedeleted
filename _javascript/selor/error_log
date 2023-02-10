@@ -1,0 +1,120 @@
+[17-Jan-2023 12:40:18 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:40:18 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(40): saveToXml('testtest', '39uxhfgw')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:40:21 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:40:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(40): saveToXml('testtest', 'j4wkeh56')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:40:54 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:40:54 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(40): saveToXml('testtest', 'qod587jx')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:43:24 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:43:24 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 'xnyoea9c')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:43:26 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:43:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 'g0in7hzt')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:43:27 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:43:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 'h5ldzj4q')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:43:27 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:43:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 'zpu1fi90')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:44:07 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:44:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', '6u8zj9o4')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:44:13 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:44:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 'ypvjw1kz')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:44:14 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:44:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', '149znjli')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:45:18 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:45:18 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(30): saveToXml('testtest', '1234567')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:45:20 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:45:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(30): saveToXml('testtest', '1234567')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:46:04 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:46:04 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(30): saveToXml('testtest', '1234567')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:49:20 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 19
+[17-Jan-2023 12:49:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:20
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(27): saveToXml('testtest', '1234567')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 20
+[17-Jan-2023 12:49:25 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 19
+[17-Jan-2023 12:49:25 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:20
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(27): saveToXml('testtest', '1234567')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 20
+[17-Jan-2023 12:53:06 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:53:06 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(40): saveToXml('testtest', 'be7td6cu')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:53:07 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 21
+[17-Jan-2023 12:53:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:22
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(40): saveToXml('testtest', '5a21w3fs')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 22
+[17-Jan-2023 12:53:55 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 23
+[17-Jan-2023 12:53:55 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:24
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 'le4no6tf')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 24
+[17-Jan-2023 12:54:33 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 23
+[17-Jan-2023 12:54:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:24
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 's8teia5u')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 24
+[17-Jan-2023 12:58:19 Europe/Paris] PHP Warning:  SimpleXMLElement::addChild(): Cannot add child. Parent is not a permanent member of the XML tree in /home/cp590333p11/public_html/app-services/selor/admin.php on line 23
+[17-Jan-2023 12:58:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function addAttribute() on null in /home/cp590333p11/public_html/app-services/selor/admin.php:24
+Stack trace:
+#0 /home/cp590333p11/public_html/app-services/selor/admin.php(42): saveToXml('testtest', 'h0ij27ks')
+#1 {main}
+  thrown in /home/cp590333p11/public_html/app-services/selor/admin.php on line 24

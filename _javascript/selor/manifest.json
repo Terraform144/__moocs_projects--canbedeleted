@@ -1,0 +1,21 @@
+{
+    "name": "Temporis Selor QCM", 
+    "short_name": "Temporis App",
+    "start_url": ".",
+    "theme_color": "#000",
+    "background_color": "#000",
+    "display": "standalone",
+    "icons":[
+      {
+        "src":"assets/tmp_logo192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src":"images/tmp_logo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  
+  }

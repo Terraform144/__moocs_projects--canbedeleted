@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+
+    Ceci est le QCM pour le test de gardiennage de base au selor
+    author : Temporis
+    date : 05/09/2022
+
+-->
+<qcm>
+    <questions>
+        <q num="1">
+            <question>Vous êtes membre d’une entreprise de gardiennage. Lors de l’exécution d’une ronde, vous perdez votre carte d’identification. Dans cette situation, quelle est la proposition correcte ?</question>
+            <reponses>
+                <a>Vous devez signaler le fait à la police. Il appartient à ce service d’aviser le SPFI par envoi recommandé </a> 
+                <b>Vous pouvez signaler le fait à votre employeur qui devra prévenir la police pour obtenir un duplicata </b>
+                <c>Vous signalez la perte à votre employeur et ce dernier doit aviser le SPFI pour obtenir le remplacement </c>
+                <d>Vous devez signaler immédiatement la perte au SPF Intérieur qui procédera au remplacement si la carte n’est pas retrouvée dans les 5 jours ouvrables </d>
+            </reponses>
+        </q>
+        <q num="2">
+            <question>Lors de l’exécution d’une activité de contrôle et de surveillance de personnes dans le cadre du maintien de la sécurité, le port d’un pistolet est :</question>
+            <reponses><a>Toujours autorisé </a>
+            <b>Autorisé si l’agent de gardiennage a 25 ans accomplis</b>
+            <c>Interdit sauf si le client l’exige </c>
+            <d>Toujours interdit </d></reponses>
+        </q>
+        <q num="3">
+            <question>La législation a prévu une procédure de screening concernant les membres du personnel d’exécution des entreprises de gardiennage à condition qu’ils donnent un consentement écrit et préalable à communiquer au Service Public Fédéral Intérieur. Pour combien de temps ce consentement est-il valable ?</question>
+            <reponses><a>Il n’y a pas de limite de validité à ce consentement </a>
+            <b>Cinq ans, à dater de la signature du premier contrat </b>
+            <c>Le temps de la durée de validité de votre formation de base </c>
+            <d>Entre la 3ième année et la 5ième année lors du renouvellement</d></reponses>
+        </q>
+        <q num="4">
+            <question>Vous êtes membre du service interne de gardiennage chez Arcelor. Faisant suite à un mouvement de grève, des membres du personnel occupent les locaux de l’entreprise, vous pouvez :</question>
+            <reponses><a>Essayer d’identifier les meneurs de la grève </a>
+            <b>Poursuivre la surveillance et la protection des installations tout en restant neutre dans le conflit </b>
+            <c>Écarter les grévistes les plus actifs du piquet de grève postés à l’entrée </c>
+            <d>Empêcher une réunion des meneurs de la grève dans un atelier de l’entreprise </d></reponses>
+        </q>
+        <q num="5">
+            <question>Un agent de gardiennage exerce des activités de gardiennage auprès de deux entreprises agréées disposant chacune d’une tenue de travail. En ce qui concerne le port de la tenue de travail, quelle est l’affirmation exacte ?</question>
+            <reponses><a>Si l’agent travaille pour deux entreprises de gardiennage, alors il peut aller travailler en civil</a>
+            <b>Lors de l’exécution d’une prestation, l’agent doit porter la tenue de l’entreprise pour laquelle il a un contrat de travail</b>
+            <c>L’agent de gardiennage devra porter la tenue de travail de l’entreprise la plus importante en personnel</c>
+            <d>Lors de l’exécution de l’activité, l’agent peut porter indistinctement l’une ou l’autre tenue de travail sans tenir compte de l’employeur pour lequel il exécute la prestation </d></reponses>
+        </q>
+        <q num="6">
+            <question>Parmi les combinaisons de coloris reprises ci-après, quelle est celle qui est autorisée pour la tenue de travail d’un service interne de gardiennage ?</question>
+            <reponses><a>Vert – noir - blanc – noir et la combinaison de ces couleurs</a>
+            <b>Blanc – rouge – orange – kaki et la combinaison de ces couleurs</b>
+            <c>Jaune – blanc – noir et la combinaison de ces couleurs</c>
+            <d>Noir – rouge – bleu – blanc – jaune et la combinaison de ces couleurs</d></reponses>
+        </q>
+        <q num="7">
+            <question>Avec qui, la loi sur la sécurité privée, impose une communication en permanence lorsqu’un agent de gardiennage statique se trouve sur son lieu de travail où aucun tiers n’est censé être ?</question>
+            <reponses><a>Un service de police</a>
+            <b>Un central d’appel </b>
+            <c>Un service d’incendie </c>
+            <d>Un centre de sécurité </d></reponses>
+        </q>
+        <q num="8">
+            <question>Un service interne de gardiennage décide de fournir à tous ses agents une tenue de travail bleue avec comme inscription gardiennage privé. En a-t-elle le droit? </question>
+            <reponses><a>Non, car l'inscription gardiennage privé est incorrecte </a>
+            <b>Non, car la tenue ne peut pas être bleue </b>
+            <c>Non, car l'inscription gardiennage privé est incorrecte et la tenue ne peut pas être bleue</c> 
+            <d>Aucune des solutions proposées</d></reponses>
+        </q>
+        <q num="9">
+            <question>À quel âge peut-on devenir agent de gardiennage ?</question>
+            <reponses><a>16 ans mais en permanence avec un agent de gardiennage de 21 ans</a>
+            <b>18 ans</b>
+            <c>19 ans</c>
+            <d>21 ans</d></reponses>
+        </q>
+        <q num="10">
+        <question>Lorsqu’un agent de gardiennage accomplit sa mission avec un chien dans des lieux où sont supposés se trouver des tiers, il doit toujours :</question>
+            <reponses><a>Garder son chien à proximité de lui</a> 
+            <b>Doter son chien d’une laisse extensible de maximum 2,5 mètres </b>
+            <c>Mettre une muselière uniquement si les tiers présents sont des enfants de moins de 12 ans </c>
+            <d>Tenir le chien en laisse en permanence avec une muselière souple</d></reponses>
+        </q>
+        <q num="11">
+            <question>Michel est agent de gardiennage dans un service interne de gardiennage. Il a été condamné à un emprisonnement de 4 mois avec sursis pour coups et blessures volontaires. Parmi les propositions citées ci-dessous, indiquez celle qui est correcte :</question>
+            <reponses><a>Il doit avertir le Service Public Fédéral Intérieur dans les cinq jours calendrier et l’administration préviendra son employeur </a> 
+            <b>Il doit avertir le Service Public Fédéral Intérieur dans les 15 jours ouvrables et l’administration préviendra son employeur  </b>
+            <c>Il doit informer son employeur sur le champ et ce dernier le licenciera car il ne respecte pas les conditions imposées par la loi</c>
+            <d>Dans les plus brefs délais, il avisera son employeur qui, après concertation avec le ministère de l’Intérieur, prendra la décision de le licencier ou de le garder </d></reponses>
+        </q>
+        <q num="12">
+        <question>Dans le cadre des activités du secteur du gardiennage, quelle est la réponse exacte concernant les lampes de poches ? </question>
+            <reponses><a>Les lampes torches ayant une longueur inférieure ou égale à 30 cm sont autorisées </a>
+            <b>Les lampes torches ayant une longueur inférieure ou égale à 35 cm sont autorisées </b>
+            <c>Les lampes torches peuvent dépasser 33 cm  </c>
+            <d>Les lampes torches ne peuvent pas dépasser 33 cm  </d></reponses>
+        </q>
+        <q num="13">
+            <question>La nouvelle loi du 2 octobre 2017 règlementant la sécurité privée et particulière a ajouté des compétences situationnelles. Quelle est la réponse exacte concernant les lieux où elles peuvent s’exercer ?</question>
+            <reponses><a>Aéroports, les gares internationales et les discothèques </a>
+            <b>Aéroports, les gares internationales, les sites nucléaires et les discothèques </b>
+            <c>Aéroports, les gares internationales, les sites nucléaires et les domaines militaires</c>
+            <d>Aéroports, les gares internationales, les sites nucléaires, domaines militaires et les stations essences </d></reponses>
+        </q>
+        <q num="14">
+            <question>La loi du 2 octobre 2017 règlementant la sécurité privée et particulière a ajouté des compétences génériques. Quelle est la réponse exacte ?</question>
+            <reponses><a>Lorsque l’agent de gardiennage effectue le contrôle d’accès, il se fait de manière systématique </a>
+            <b>Lorsque l’agent de gardiennage effectue le contrôle d’accès, il se fait sur base d’un comportement suspect </b>
+            <c>Lorsque l’agent de gardiennage effectue le contrôle d’accès, il se fait sur base d’une origine ethnique </c>
+            <d>Lorsque l’agent de gardiennage effectue le contrôle d’accès, il se fait sur base du genre (homme ou femme)</d></reponses>
+        </q>
+        <q num="15">
+            <question>Rassin est agent de gardiennage depuis 10 ans. Il décide de quitter son entreprise de gardiennage. Quelle est la proposition correcte parmi les suivantes ? </question>
+            <reponses><a>Il doit remettre sa carte d’identification à son employeur dans les 5 jours </a>
+            <b>Il doit envoyer son uniforme dans les 20 jours qui suivent sa démission</b>
+            <c>Il doit remettre sa carte d’identification à son employeur dans les 25 jours </c>
+            <d>Il doit envoyer son uniforme dans les 3 jours qui suivent sa démission</d></reponses>
+        </q>
+        <q num="16">
+            <question>Frank vient d’avoir une proposition d’arrangement à l’amiable par le Service Public Fédéral Intérieur. Cela veut dire que Frank devra payer :</question>
+            <reponses><a>2/3 de l’amende sans être inférieure à 100 euros</a>
+            <b>30 % du montant de l’amende administrative sans être inférieure à 100 euros. </b>
+            <c>Une amende comprise entre 100 et 200 euros</c>
+            <d>0 € à payer</d></reponses>
+        </q>
+        <q num="17">
+            <question>Rassin travaille en tant qu’agent de gardiennage dans un centre commercial. A la fermeture, il doit s’assurer qu’il n’y a plus de client. A un moment, l’agent de gardiennage constate qu’il y a encore quelques personnes. Ces derniers refusent de quitter le centre commercial. Que doit faire Rassin ?</question>
+            <reponses><a>Les inviter, aimablement, à quitter les lieux et s'ils refusent, les y obliger physiquement</a>
+            <b>Les retenir en flagrant délit jusqu’à l’arrivée de la police </b>
+            <c>Les inviter gentiment à quitter les lieux et s'ils refusent, appeler la police</c>
+            <d>Les contraindre physiquement de quitter les lieux et s’ils se rebellent, vous serez en état de légitime défense</d></reponses>
+        </q>
+        <q num="18">
+            <question>Roger travaille en tant qu’agent de gardiennage dans un service interne de gardiennage d’un hôpital. Il effectue des rondes dans les bâtiments de l’hôpital. De temps en temps, Roger traverse la voie publique afin de s’assurer que tout est en ordre dans une des dépendances adjacentes du même hôpital. Roger réalise des :</question>
+            <reponses><a>Activités d’un agent statique </a>
+            <b>Activités d’un agent mobile</b>
+            <c>Activités d’un agent mobile et intervenant après alarme </c>
+            <d>Activités de stewarding </d></reponses>
+        </q>
+        <q num="19">
+            <question>Thierry est agent de gardiennage chez Carrefour et lors d’une ronde, il fait tomber par inadvertance un extincteur qui brise la vitrine du magasin. </question>
+            <reponses><a>Etant donné que l’entreprise de gardiennage est assurée en responsabilité civile, c’est l’assurance qui paiera </a>
+            <b>Etant donné que l’entreprise de gardiennage est assurée en responsabilité civile, c’est l’assurance qui paiera et se retournera contre Thierry pour rembourser les montants dépensés </b>
+            <c>Etant donné que c’est Thierry qui a cassé la vitrine, c’est son assurance personnelle qui paiera </c>
+            <d>C’est l’assurance du magasin qui prendra en charge les dégâts</d></reponses>
+        </q>
+        <q num="20">
+            <question>Lucie est agent de gardiennage dans un événement important. Marie se présente à l’accès, mais Lucie a l’impression que Marie a un objet dangereux dans sa poche droite et demande à Marie l’autorisation de réaliser une palpation superficielle. Malheureusement, Marie refuse catégoriquement.  Que peut faire Lucie ?</question>
+            <reponses><a>Obliger Marie à se soumettre à la palpation superficielle </a>
+            <b>Refuser l’accès à Marie</b>
+            <c>Laisser entrer Marie, car c’est sans doute une mauvaise impression</c>
+            <d>Appeler la police </d></reponses>
+        </q>
+        <q num="21">
+            <question>Qui doit avoir une carte d’identification ?</question>
+            <reponses><a>Un steward urbain</a>
+            <b>Un signaleur de course-cycliste</b>
+            <c>Un agent statique dans un complexe cinématographique</c>
+            <d>Un steward de football</d></reponses>
+        </q>
+        <q num="22">
+            <question>Parmi les lieux cités ci-après, quel est celui qui doit être considéré comme lieu accessible au public ?</question>
+            <reponses><a>Les cuisines de l’hôtel Beau séjour</a>
+            <b>Le vestiaire du personnel chargé de la gestion du parc animalier</b>
+            <c>Le concert rock organisé dans un parc et accessible uniquement contre paiement du droit d’entrée</c>
+            <d>La chaufferie du bâtiment affecté au tri postal à Namur</d></reponses>
+        </q>
+        <q num="23">
+            <question>Lors de l’exécution d’une activité de contrôle et de surveillance de personnes dans le cadre du maintien de la sécurité, le port d’un pistolet est :</question>
+            <reponses><a>Toujours autorisé</a>
+            <b>Autorisé si l’agent de gardiennage a 25 ans accompli</b>
+            <c>Toujours interdit</c>
+            <d>Interdit sauf si l’agent dispose d’une autorisation du bourgmestre</d></reponses>
+        </q>
+        <q num="24">
+            <question>Quelle est la dénomination exacte actuelle de la législation ?</question>
+            <reponses><a>Loi relative aux entreprises de gardiennage, aux services internes de gardiennage et aux entreprises de sécurité</a>
+            <b>Loi réglementant la sécurité privée et particulière</b>
+            <c>Loi réglementant les entreprises et services internes de gardiennage</c>
+            <d>Loi applicable au secteur de la sécurité</d></reponses>
+        </q>
+        <q num="25">
+            <question>Un agent de gardiennage assure la surveillance d’un événement pour lequel, l’an dernier, les organisateurs ont rencontré des problèmes avec des allochtones. C’est pourquoi, cette année, on lui demande de ne laisser rentrer aucun allochtone. Peut-il appliquer cette consigne ?</question>
+            <reponses><a>Non, car il se rendrait complice de discrimination</a>
+            <b>Oui, tant qu’il informe les allochtones que c’est une consigne de l’organisation</b>
+            <c>Oui, mais juste un allochtone sur deux</c>
+            <d>Oui, il a le droit de refuser l’entrée aux allochtones</d></reponses>
+        </q> 
+    </questions>
+    <solutions>
+        <solution num="1">C</solution><solution num="2">D</solution><solution num="3">A</solution><solution num="4">B</solution><solution num="5">B</solution>
+        <solution num="6">C</solution><solution num="7">B</solution><solution num="8">C</solution><solution num="9">B</solution><solution num="10">D</solution>
+        <solution num="11">C</solution><solution num="12">D</solution><solution num="13">C</solution><solution num="14">B</solution><solution num="15">A</solution>
+        <solution num="16">B</solution><solution num="17">C</solution><solution num="18">A</solution><solution num="19">A</solution><solution num="20">B</solution>
+        <solution num="21">C</solution><solution num="22">C</solution><solution num="23">C</solution><solution num="24">B</solution><solution num="25">A</solution>
+    </solutions>
+</qcm>
