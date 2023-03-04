@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Aliscrapper",
+  "version": "1.0",
+  "description": "Add myTinyShop options on ALiexpress",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
