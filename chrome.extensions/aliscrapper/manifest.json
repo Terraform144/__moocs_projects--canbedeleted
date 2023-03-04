@@ -1,13 +1,22 @@
 {
-  "manifest_version": 2,
-  "name": "Aliscrapper",
+  "manifest_version": 3,
+  "name": "Ali Scrapper",
   "version": "1.0",
-  "description": "Add myTinyShop options on ALiexpress",
-  "permissions": ["activeTab"],
+  "description": "Une extension qui modifie le contenu d'une div",
+  "action": {
+    "default_popup": "interface.html"
+  },
+  "permissions": [
+    "scripting","activeTab"
+  ],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["content.js"]
+      "js": ["script.js"],
+      "run_at": "document_idle"
     }
-  ]
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
 }

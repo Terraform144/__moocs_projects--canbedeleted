@@ -1,10 +1,10 @@
-// TODO implement this properly
-
-
-{ // TO DELETE
-// Find the div you want to replace
-const divToReplace = document.querySelector(".product-title");
-
-// Replace the content of the div
-divToReplace.innerHTML = "New content goes here!";
-}
+document.addEventListener("DOMContentLoaded", function() {
+  var bouton = document.getElementById("bChange");
+  bouton.addEventListener("click", function() {
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+      chrome.tabs.executeScript(
+          tabs[0].id,
+          {code: 'document.querySelector(".product-title").textContent = "Nouveau contenu de la div !";'});
+    });
+  });
+});
