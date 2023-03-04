@@ -1,3 +1,5 @@
+// Produced by Chat GPT after 15 min of questionning :)
+
 // Fonction pour modifier le contenu de la div avec la classe 'product-title'
 function modifierContenu() {
     // Récupération de la div avec la classe 'product-title'
