@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Div Replacer",
+  "name": "Aliscrapper",
   "version": "1.0",
-  "description": "Replaces the content of a div",
+  "description": "Add myTinyShop options on ALiexpress",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
