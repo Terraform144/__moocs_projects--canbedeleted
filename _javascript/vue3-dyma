@@ -1,1 +1,25 @@
 
+<template>
+  <section id="tmp_test">
+    <h1>Bonjour {{ name.toUpperCase() }}</h1>
+    <div :class="vClassTitle" v-bind:id="unId" v-html="name"></div>
+    <div v-bind="obj">hello le monde</div>
+    <!-- HELLO IK BIN EIN COCO -->
+  </section>
+</template>
+
+<script setup lang="ts">
+
+const name = "<strong>Jean</strong>";
+const vClassTitle = "title toto";
+const unId="thisIdTest";
+const key="name";
+
+const obj = {
+  [key]: 'hello',
+  'id': unId,
+  'class': vClassTitle
+}
+</script>
+
+<style></style>
