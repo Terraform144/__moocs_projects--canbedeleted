@@ -2,6 +2,12 @@ import { invoke } from "@tauri-apps/api/tauri";
 
 let greetInputEl: HTMLInputElement | null;
 let greetMsgEl: HTMLElement | null;
+// Créez une nouvelle instance de l'objet Audio
+let audio = new Audio('assets/RihannaSOS.mp3');
+
+function playSong() {
+  audio.play();
+}
 
 async function greet() {
   if (greetMsgEl && greetInputEl) {
@@ -9,6 +15,8 @@ async function greet() {
     greetMsgEl.textContent = await invoke("greet", {
       name: greetInputEl.value,
     });
+    // Utilisez setTimeout pour jouer l'audio après 5 secondes (5000 millisecondes)
+    playSong();
   }
 }
 
