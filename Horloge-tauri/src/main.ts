@@ -2,8 +2,7 @@ import { invoke } from "@tauri-apps/api/tauri";
 
 let greetInputEl: HTMLInputElement | null;
 let greetMsgEl: HTMLElement | null;
-// Créez une nouvelle instance de l'objet Audio
-let audio = new Audio('assets/RihannaSOS.mp3');
+let audio = new Audio('src/assets/RihannaSOS.mp3');
 
 function playSong() {
   audio.play();
