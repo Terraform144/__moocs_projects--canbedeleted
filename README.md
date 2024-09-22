@@ -6,10 +6,10 @@ Feel free to enter :)
 
 ## TOPICS
 
-Cpp scripting, C# console scripting, Javascript Webpack, Vuejs, Capacitorjs,  
+js, c#, c++,
 
 ## PROJECTS
 
-- [x] [MyTinyCMS - php, xml ](https://github.com/terraform144/myTinyCMS)
+- [v] [MyTinyCMS - php, xml ](https://github.com/terraform144/myTinyCMS)
 - [x] [Iaido is back - AdobeAir game ](https://github.com/terraform144/Iaido-is-back)
 
