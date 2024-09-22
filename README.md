@@ -10,6 +10,6 @@ js, c#, c++,
 
 ## PROJECTS
 
-- [v] [MyTinyCMS - php, xml ](https://github.com/terraform144/myTinyCMS)
+- [x] [MyTinyCMS - php, xml ](https://github.com/terraform144/myTinyCMS)
 - [x] [Iaido is back - AdobeAir game ](https://github.com/terraform144/Iaido-is-back)
 
