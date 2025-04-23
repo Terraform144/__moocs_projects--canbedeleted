@@ -19,6 +19,11 @@
 		 * 
 		 */
 		
+		/** attack behaviour of the creature
+		 * @param who
+		 * 
+		 * @return void
+		 */
 		public function attack(who:Creature=null) {
 			// toremake attack -> passer par la vision
 			try {
