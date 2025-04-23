@@ -8,4 +8,7 @@ En ces temps reculés d'obscurantisme médiéval. Un héro initié aux arts du K
 
 https://play.google.com/store/apps/details?id=air.labyrinthefinal -- killed by google due to RGPD'ing uncompliance
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NEY8QGth0Ik?si=QqdkxT36TAtZWoV7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Making OF 2025](https://img.youtube.com/vi/QqdkxT36TAtZWoV7/0.jpg)](https://www.youtube.com/watch?v=QqdkxT36TAtZWoV7)
+
+https://www.youtube.com/embed/NEY8QGth0Ik?si=
