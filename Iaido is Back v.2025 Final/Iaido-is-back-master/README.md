@@ -10,5 +10,3 @@ https://play.google.com/store/apps/details?id=air.labyrinthefinal -- killed by g
 
 
 [![Making OF 2025](https://img.youtube.com/vi/NEY8QGth0Ik/0.jpg)](https://www.youtube.com/watch?v=NEY8QGth0Ik)
-
-https://www.youtube.com/embed/NEY8QGth0Ik?si=
