@@ -14,9 +14,8 @@
 // Deadline
 
 	Juin 2025
-	
-// NICE TO HAVE 
+	Fait est mieux que parfais !
 
-	
+// NICE TO HAVE 
 
 */ 
