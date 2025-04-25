@@ -115,6 +115,7 @@ trace ("combat: " + error.toString()); // todo <- delete
 					// todo
 				}
 				
+				this.removeEventListener(MouseEvent.CLICK, this.combat);
 			}
 		}
 		

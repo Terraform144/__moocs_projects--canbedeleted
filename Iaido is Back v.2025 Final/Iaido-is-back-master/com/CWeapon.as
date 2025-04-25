@@ -51,6 +51,8 @@
 			var l_hand = Global.ROOT_CLIP.getChildByName("l_hand");
 			l_hand.getChildByName("burst").visible = false;
 			this.wp.setPropList(this.wpn.prop_attack);
+
+			this.removeEventListener(MouseEvent.CLICK, this.showCombat_panel);
 		}
 			
 		public function setWpn(_wpn){

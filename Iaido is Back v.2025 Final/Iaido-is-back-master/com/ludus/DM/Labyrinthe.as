@@ -161,6 +161,7 @@
 				trace("labyrinthe.dl.showWalls : " + error);
 			}
 			
+			this.removeEventListener(MouseEvent.CLICK, this.setOrientation);
 		}
 		
 		/**
@@ -314,6 +315,8 @@
 				this.placeGrid(); dl.showWalls(this.orientation,this.position);dl.textureGrid();
 				this.change_shadow();
 			}
+
+			this.removeEventListener(MouseEvent.CLICK, this.setPosition);
 		}
 	}
 }

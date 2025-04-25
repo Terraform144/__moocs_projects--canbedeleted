@@ -58,6 +58,7 @@ trace("Global.HandWeapon: " + Global.HandWeapon);
 				
 			}
 			
+			this.removeEventListener(MouseEvent.CLICK, onclick);
 		}
 		
 	}

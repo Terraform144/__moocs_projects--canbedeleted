@@ -25,6 +25,8 @@ package com
 				Global.isMenu=true;Global.setNavVisible(false);
 				p_menu.visible = true; b_hero.visible = true; p_inv.visible = false;
 			}
+
+			this.removeEventListener(MouseEvent.CLICK,goMenu);
 		}
 	}
 }

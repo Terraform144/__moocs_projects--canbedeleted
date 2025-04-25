@@ -36,6 +36,7 @@
 				}
 			}catch (e:Error) {}
 			
+			this.removeEventListener(MouseEvent.CLICK, goInventaire);	
 		}
 	}
 }

@@ -210,6 +210,8 @@
 			else {
 				//
 			}
+
+			this.removeEventListener(MouseEvent.CLICK, takeMe);
 		}
 	}
 }

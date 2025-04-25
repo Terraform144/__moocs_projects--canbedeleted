@@ -210,6 +210,8 @@ if(Global.PLAYER.life < 50)  doTraces("player life " + Global.PLAYER.life);
 						//doTraces("load interstitial");
 						break;
 				}
+
+				this.removeEventListener(TimerEvent.TIMER, onTimer);
 				
 			}
 //doTraces("endLoop: " + this.count.toString());

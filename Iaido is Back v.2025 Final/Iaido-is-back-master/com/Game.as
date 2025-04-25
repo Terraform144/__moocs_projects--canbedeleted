@@ -12,6 +12,15 @@
 	import flash.events.Event;
 	import flash.events.MouseEvent;
 	
+	/**
+	/*
+	 * Disclaimer:
+	 * This code is the intellectual property of its author (Gianluigi BEUZARD).
+	 * All rights are reserved, and the author retains the exclusive right
+	 * to use, modify, and exploit this code commercially.
+	 * Unauthorized reproduction, or distribution of this code for commercial purpose is strictly prohibited.
+	 */
+	 */
 	public class Game extends Sprite
 	{
 		public function Game() {

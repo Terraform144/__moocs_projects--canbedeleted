@@ -77,6 +77,7 @@
 				Global.GAMELOOP.positionLHand();
 			}
 			
+			this.removeEventListener(TimerEvent.TIMER, onTimer);
 //trace("endOntimer MiniLoop");
 		}
 	}

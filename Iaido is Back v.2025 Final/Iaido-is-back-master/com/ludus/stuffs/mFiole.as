@@ -19,6 +19,8 @@
 			this.visible = false;
 			
 			msg_player.setMessage(" life taken +50");
+
+			this.removeEventListener(MouseEvent.CLICK, onclick);
 		}
 	}
 	

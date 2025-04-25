@@ -31,7 +31,27 @@
 			
 			Global.PLAYER.resetPlayer();
 			Global.GAMELOOP = new GameLoop(1000);
+	
+			// remove the replay button
+			if(this.parent) {
+				this.parent.removeChild(this);
+			}
+			
+			// remove the intro movie
+			if(Global.CINEMATIQUE) {
+				if(Global.CINEMATIQUE.parent) {
+					Global.CINEMATIQUE.parent.removeChild(Global.CINEMATIQUE);
+				}
+			}
+			
+			// remove the intro movie
+			if(Global.ROOT_CLIP.getChildByName("dmy_anim")) {
+				if(Global.ROOT_CLIP.getChildByName("dmy_anim").parent) {
+					Global.ROOT_CLIP.getChildByName("dmy_anim").parent.removeChild(Global.ROOT_CLIP.getChildByName("dmy_anim"));
+				}
+			}
 
+			this.removeEventListener(MouseEvent.CLICK,goDungeon);
 		}
 	}
 	

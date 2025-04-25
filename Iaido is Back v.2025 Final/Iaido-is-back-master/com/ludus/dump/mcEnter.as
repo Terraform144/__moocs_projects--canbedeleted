@@ -26,6 +26,7 @@
 			Global.PLAYER.resetPlayer();
 			Global.GAMELOOP = new com.GameLoop(1000);
 			
+			this.removeEventListener(MouseEvent.CLICK,goDungeon);
 		}
 	}
 	

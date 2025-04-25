@@ -27,6 +27,8 @@
 				stg.gotoAndStop('startTheAdventure');
 				
 			}
+
+			this.removeEventListener(MouseEvent.CLICK,goDungeon);
 		}
 	}
 }

@@ -14,6 +14,8 @@
 
 		public function goCredits(e:Event):void {
 			Global.ROOT_CLIP.gotoAndStop("game_credits");
+
+			this.removeEventListener(MouseEvent.CLICK, goCredits);
 		}
 	}
 

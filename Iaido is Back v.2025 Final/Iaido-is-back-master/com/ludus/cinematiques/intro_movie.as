@@ -24,6 +24,8 @@
 			} catch (e:Error) {
 //trace(_stepDown_handle+" : " + e);
 			}
+
+			this.removeEventListener(Event.ENTER_FRAME, _intro_movie_handle);
         }
 	}
 

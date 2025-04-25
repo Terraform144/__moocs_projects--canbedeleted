@@ -130,7 +130,7 @@
 				trace( "addMeToCombat: " + e );
 
 			}
-			
+			this.removeEventListener(MouseEvent.CLICK, addMeToCombat);
 		}
 		
 		/**

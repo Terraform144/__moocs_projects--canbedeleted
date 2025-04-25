@@ -73,6 +73,8 @@
 		private function onSelect(e:MouseEvent):void
 		{
 			this.cmd.execute();
+
+			this.removeEventListener(MouseEvent.CLICK,onSelect);
 		}
 		
 		//

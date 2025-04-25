@@ -18,6 +18,7 @@
 		
 		public function showCombat_panel(e:Event) {
 //trace("showCombat_panel");
+			this.removeEventListener(MouseEvent.CLICK, this.showCombat_panel);
 		}
 	}
 }
