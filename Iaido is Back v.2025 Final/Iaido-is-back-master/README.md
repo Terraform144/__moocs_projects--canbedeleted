@@ -1,7 +1,7 @@
 # Iaido-is-back (Jeu Flash)
 In a deep dungeon, no one will ear you fall !! ;-)
 
-# DISCLAIMER
+# DISCLAIMER, LICENSE
 * This code is the intellectual property of its author (Gianluigi BEUZARD).
 * All rights are reserved, and the author retains the exclusive right
 * to use, modify, and exploit this code commercially.
