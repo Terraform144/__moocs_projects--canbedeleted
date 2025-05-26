@@ -11,7 +11,7 @@
         padding: 10px;
         margin: 10px;
         background: lightgreen;
-        font-size: 2rem;
+        font-size:2rem;
     }
     p {
         margin: 5px 0;
